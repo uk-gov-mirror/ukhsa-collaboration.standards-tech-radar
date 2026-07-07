@@ -27,5 +27,5 @@ A list of components and if they have been approved for use in UKHSA technology 
 | OpenAPI | Approved | A specification for a machine-readable interface definition language for describing, producing, consuming and visualizing web services (previously known as Swagger). |
 | Ruby On Rails | Approved | Open source web server framework -current version approved only |
 | VBA | Not Approved - Discuss with UKHSA | Event-driven programming language built into most Microsoft Office applications. |
-| .NET | Not Approved - Discuss with UKHSA | .NET Core is an open-source, general-purpose development platform maintained by Microsoft. It supports multiple languages, libraries, and tools, enabling the creation of a wide range of applications. being cross-platform, it allows developers to build applications that run on Windows, MacOS, And Linux. |
-| C# | Not Approved - Discuss with UKHSA | General purpose programming language. |
+| .NET | Approved | .NET Core is an open-source, general-purpose development platform maintained by Microsoft. It supports multiple languages, libraries, and tools, enabling the creation of a wide range of applications. being cross-platform, it allows developers to build applications that run on Windows, MacOS, And Linux. |
+| C# | Approved | General purpose programming language. |
